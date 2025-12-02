@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "図鑑",
+  "base_artist": "SEKAI NO OWARI",
+  "createdAt": "2025-12-02T01:42:39.492278Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "図鑑",
+      "artist": "YUZU",
+      "has_synced": true,
+      "path": "select/01_図鑑_YUZU.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "図鑑",
+      "artist": "ゆず",
+      "has_synced": true,
+      "path": "select/02_図鑑_ゆず.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "図鑑",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/03_図鑑_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "図鑑",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/pl_01_図鑑_ゆず.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "図鑑",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/pl_02_図鑑_ゆず.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "図鑑",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/pl_03_図鑑_ゆず.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "図鑑で見ていた恐竜はどんどん格好悪くなるからもしもしかめよかめさんよ僕のそばにいて",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/pl_04_図鑑で見ていた恐竜はどんどん格好悪くなるからもしもしかめよかめさんよ僕のそばにいて_ゆず.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "図鑑",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/pl_05_図鑑_ゆず.txt"
+    }
+  ]
+}
